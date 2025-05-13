@@ -1,0 +1,10 @@
+joblib 
+streamlit-option-menu
+streamlit
+streamlit-option-menu
+joblib
+xgboost
+lightgbm
+scikit-learn
+pandas
+numpy
