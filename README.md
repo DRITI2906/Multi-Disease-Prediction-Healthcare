@@ -46,8 +46,7 @@ A machine learning-based web app that predicts multiple diseases . Its primary p
 
 ## 🌐 Web App
 Explore the deployed version at:
-
-👉 
+👉 https://driti2906-multi-disease-prediction-healthcare-app-soyikc.streamlit.app/
 
 ## Screenshots
 **Disease seletion menu**  
